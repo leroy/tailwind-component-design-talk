@@ -701,3 +701,5 @@ layout: 'center'
 ---
 
 # Thanks for listening
+
+<div class="text-center opacity-50 text-xs lowercase">👉 Powered by <a target="_blank" href="https://sli.dev">slidev</a></div>
